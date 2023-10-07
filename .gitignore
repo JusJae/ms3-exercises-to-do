@@ -1,1 +1,5 @@
-exercises-to-do/.gitignore
+**/.DS_Store
+venv/
+__pycache__/
+env.py
+.vscode/
